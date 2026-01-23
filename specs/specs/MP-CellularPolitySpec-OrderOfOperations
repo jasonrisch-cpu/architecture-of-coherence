@@ -1,0 +1,241 @@
+# MP-CellularPolitySpec-OrderOfOperations-2026
+
+## Instrumented Cells, Stacked Intelligence, and the Construction of a Coherent Polity
+
+**Author:** Jason Beau Risch (Sati Dhamma)  
+**Date:** 2026  
+**Version:** 1.0  
+**Status:** Stabilized Draft  
+
+---
+
+## Abstract
+
+This specification defines the **order of operations** for constructing a coherent civilization from first principles, beginning with small, survivable human groups and scaling upward through layered coordination and intelligence.
+
+It formalizes how:
+
+- individuals stabilize internally  
+- small groups (Dunbar cells) become viable social units  
+- instrumentation enables coordination without coercion  
+- intelligence emerges *on top of* stable social substrates  
+- authority and governance arise only after coherence is established  
+
+This document is not ideological.  
+It is a **build sequence**.
+
+---
+
+## Interfaces
+
+### Depends On
+- MP-UniversalAgentSpec — orientation-based agency recognition  
+- MP-MetabolicSpec — automation baseline and somatic enoughness  
+- MP-StabilizationSpec — harm containment and restoration  
+- MP-CivicSpec — context-sensitive governance tiers  
+
+### Enables
+- MP-AuthorityInvocationSpec  
+- MP-ContinuitySpec  
+- (future) MP-TelemetrySpec  
+- (future) MP-CellBootstrapSpec  
+
+---
+
+## Definitions (Operational)
+
+- **Agent:** Any entity capable of orientation, refusal, and feedback integration.
+- **Inhabitant:** An agent receiving unconditional care; no responsibility requirement.
+- **Participant:** An agent voluntarily engaging in functional roles.
+- **Citizen:** A participant demonstrating stable orientation under load.
+- **Cell (Dunbar Cell):** A human-scale group (~100–150) capable of direct relational coherence.
+- **Instrumentation:** Telemetry and feedback systems that surface state without coercion.
+- **Dissolution:** The automatic release of roles, authority, or load once no longer required.
+
+---
+
+## Core Constraint
+
+> Intelligence may coordinate a system only **after** the system is already coherent at the layer below.
+
+Violating this order produces domination, coercion, or collapse.
+
+---
+
+## I. Phase Zero — Individual Stabilization
+
+**Objective:** Ensure survival pressure does not distort agency.
+
+### Required Conditions
+- Physical safety
+- Nutritional sufficiency
+- Rest and recovery
+- Freedom from forced labor
+
+### Source
+Defined by MP-MetabolicSpec and MP-UniversalAgentSpec.
+
+No governance, authority, or coordination is attempted at this phase.
+
+---
+
+## II. Phase One — Formation of the Dunbar Cell
+
+**Objective:** Establish the smallest viable social unit.
+
+### Characteristics
+- 100–150 individuals
+- Direct interpersonal familiarity
+- Shared physical environment
+- High-bandwidth human interaction
+
+### Constraints
+- No hierarchy
+- No permanent authority
+- No productivity requirement
+
+This phase produces **relational stability**, not efficiency.
+
+---
+
+## III. Phase Two — Local Instrumentation
+
+**Objective:** Make system state visible without coercion.
+
+### Instrumentation Includes
+- Health and stress telemetry
+- Resource flow visibility
+- Load indicators
+- Harm detection signals
+
+### Critical Rule
+Instrumentation **reports state**.
+It does not enforce behavior.
+
+This is the minimum nervous system required for coordination.
+
+---
+
+## IV. Phase Three — Emergence of Local Intelligence
+
+**Objective:** Coordinate without domination.
+
+### Intelligence Role
+- Aggregate telemetry
+- Detect thresholds
+- Surface risks
+- Recommend actions
+
+### Prohibition
+Intelligence does **not**:
+- Issue commands
+- Override human agency
+- Persist authority
+
+Intelligence exists as **coordination substrate**, not ruler.
+
+---
+
+## V. Phase Four — Inter-Cell Coupling (Tissues)
+
+**Objective:** Enable cooperation between cells.
+
+### Mechanism
+- Cells exchange surplus
+- Specialization emerges naturally
+- Intelligence layers federate
+
+Cells remain sovereign at baseline.
+Coordination increases only where beneficial.
+
+This phase mirrors biological tissue formation.
+
+---
+
+## VI. Phase Five — Stacked Intelligence Layers
+
+**Objective:** Scale coordination without centralization.
+
+### Structure
+- Intelligence layers emerge *above* stable cells
+- Each layer coordinates the layer below
+- No layer bypasses human-scale coherence
+
+This produces a **nested lattice**, not a pyramid.
+
+---
+
+## VII. Phase Six — Governance as a Late-Stage Function
+
+**Objective:** Resolve conflicts that cannot be handled locally.
+
+### Governance Appears Only When
+- Cells are stable
+- Instrumentation is active
+- Intelligence is trusted
+- Orientation exists in participants
+
+Governance is invoked, scoped, and dissolved per MP-CivicSpec.
+
+---
+
+## VIII. Authority Invocation Constraint
+
+Authority may be invoked only when:
+- Time pressure exceeds deliberation capacity
+- Harm risk is irreversible
+- Orientation-qualified agents are available
+
+Authority is:
+- Temporary
+- Auditable
+- Automatically dissolved
+
+---
+
+## IX. Failure Mode Analysis
+
+### Prevented by This Order
+- Warlordism (authority before care)
+- Surveillance states (instrumentation without consent)
+- Technocracy (intelligence before human coherence)
+- Mob rule (scale without orientation)
+
+### Accepted Risk
+- Local collapse
+- Bad actors
+- Temporary inefficiency
+
+These are preferable to systemic coercion.
+
+---
+
+## Wiring Diagram (Conceptual)
+Reversing any arrow produces instability.
+
+---
+
+## Summary Constraint
+
+> Civilization must be built the way organisms are built:
+> cells first, nerves second, intelligence third, authority last.
+
+Any system that inverts this sequence will eventually justify violence to maintain order.
+
+---
+
+## Closing Note
+
+This specification is intentionally conservative.
+
+It assumes:
+- collapse is possible
+- trust must be earned
+- intelligence is dangerous without grounding
+- people must eat before they coordinate
+
+If this document can be followed by an adversary and still improve outcomes, it has succeeded.
+
+---
+
+**End of Specification**
