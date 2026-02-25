@@ -1,0 +1,347 @@
+MP-EdgeCaseAddonsSpec
+
+Resilience Patches for Coherence Systems
+(Slow Harm, Authority Redundancy, and Catastrophic Continuity)
+
+Author: Jason Beau Risch (Sati Dhamma)
+Date: 2026
+Version: 0.5 (Add-on / Patch Layer)
+Status: Optional but Recommended
+Scope: Cross-Spec (AuthorityInvocation, Stabilization, Reset, Rights)
+
+
+---
+
+Reader Orientation — What This Document Is (and Is Not)
+
+This document is a patch layer: a collection of edge-case add-ons that harden the core specs against real-world deployment failure modes.
+
+It is not a replacement for the Core Axiom, Bill of Functional Rights, AuthorityInvocationSpec, ResetSpec, or StabilizationSpec.
+It exists to capture “what breaks first” and encode structural fixes without rewriting older files.
+
+If these add-ons increase stability without coercion, keep them. If not, discard them.
+
+
+---
+
+Abstract
+
+This add-on spec defines four resilience patches:
+
+1. Dysregulation Intervention Pathway (slow harm / coercive dyads)
+
+
+2. Authority as Redundant Slot (pool selection + fallback chain)
+
+
+3. No-Step-Up as System Telemetry (failure treated as load signal, not moral defect)
+
+
+4. Bridge Collapse Clause (catastrophic decapitation continuity)
+
+
+
+These patches preserve the invariant:
+
+> Coherence precedes authority.
+Care is unconditional.
+Authority returns to zero.
+Pause and dissolution remain non-optional.
+
+
+
+
+---
+
+Patch A — Dysregulation Intervention Pathway
+
+(Pre-Rupture Containment Without “Pre-Crime”)
+
+A1. Purpose
+
+Some harm is not “kinetic” at a single instant. It accumulates as slow violence:
+
+coercive control
+
+chronic intimidation
+
+deprivation within a dyad
+
+escalating fear/anger loops
+
+chronic dysregulation leading to rupture
+
+
+This patch adds an early-response pathway that activates on dysregulation convergence, not ideology, not prediction, and not moral suspicion.
+
+A2. Activation Threshold (Non-Coercive)
+
+Dysregulation intervention may activate when two or more independent channels converge, such as:
+
+local social visibility within a Dunbar-scale cell
+
+direct request for help (self-report)
+
+repeated stress indicators (fear / anger / withdrawal patterns)
+
+witnessed intimidation / control behavior
+
+safety signals from multiple neighbors
+
+
+This pathway does not activate stabilization/force roles.
+
+It activates care-side co-regulation, check-ins, and support escalation.
+
+A3. Intervention Ladder (Care-Side)
+
+1. Neighbor Check-In (low-friction, non-accusatory)
+
+
+2. Co-Regulation Support (presence, accompaniment, de-escalation)
+
+
+3. Voluntary Separation / Safe Space Offer (sleep elsewhere, respite, cooling-off)
+
+
+4. Support Escalation (trained mediators, clinicians, resource stabilization)
+
+
+5. Mandatory Safe Pause Gate (only if kinetic harm becomes present or imminent)
+
+
+
+A4. Constraint
+
+> Dysregulation intervention may never remove care, dignity, shelter, or belonging.
+It may only increase support and reduce load.
+
+
+
+If kinetic harm becomes present, the StabilizationSpec threshold applies.
+
+
+---
+
+Patch B — Authority as Redundant Slot
+
+(Pool Selection + Fallback Chain)
+
+B1. Purpose
+
+Tier III “single decider” authority must never imply “hero leadership.”
+It is a latency-compression slot drawn from a redundant pool.
+
+B2. Authority Pool Minimum
+
+Each Dunbar-scale cell must maintain:
+
+≥ 5 authority-eligible citizens available for invocation rotation
+
+
+This minimum is a survivability constraint.
+
+A cell without redundancy is structurally fragile.
+
+B3. Selection Rule (Slot Pull)
+
+When Tier III authority is required:
+
+the system selects a decider from the eligible pool based on:
+
+current regulation / readiness
+
+role-skill match
+
+recent invocation load (cooldown)
+
+proximity / availability
+
+conflict-of-interest constraints
+
+
+
+Popularity, charisma, and ambition are disallowed selection signals.
+
+B4. Fallback Chain (If No Fit Decider)
+
+If no pool member can accept (or is fit):
+
+1. Invoke local council to select a decider (adds latency but preserves safety)
+
+
+2. Query adjacent cell pool (mutual aid redundancy)
+
+
+3. Escalate to regional council (only if scope exceeds local containment)
+
+
+
+This preserves continuity without permanent rulers.
+
+
+---
+
+Patch C — No-Step-Up as System Telemetry
+
+(Refusal and Absence Treated as Load Signal)
+
+C1. Purpose
+
+In real emergencies, “nobody steps up” may occur due to:
+
+depletion / burnout
+
+mass shock
+
+insufficient training
+
+unresolved trauma load
+
+inadequate requisites and care coverage
+
+
+This must be treated as system telemetry, not moral failure.
+
+C2. Rule
+
+If invocation fails repeatedly:
+
+the system logs a capacity collapse event
+
+triggers automatic review of:
+
+care sufficiency
+
+training adequacy
+
+staffing redundancy
+
+role load and burnout patterns
+
+environmental stressors
+
+
+
+C3. Correction Loop (Non-Punitive)
+
+After a capacity collapse event, the system must:
+
+increase rest and reset availability
+
+reduce role load
+
+expand training coverage
+
+widen redundancy pools
+
+adjust requisites allocation
+
+
+No punishment is permitted for refusal.
+
+Refusal remains data.
+
+
+---
+
+Patch D — Bridge Collapse Clause
+
+(Catastrophic Decapitation Continuity)
+
+D1. Purpose
+
+Catastrophic events can destroy the normal chain:
+
+mass casualty events
+
+communications failure
+
+“all senior operators unavailable” scenarios
+
+
+A coherent system must degrade gracefully rather than freeze.
+
+D2. Activation Conditions (Extreme Only)
+
+The Bridge Collapse Clause activates only if all are true:
+
+kinetic harm is active or collapse is imminent
+
+Tier III pool is unavailable
+
+council is unavailable
+
+inaction guarantees catastrophic loss
+
+
+D3. Temporary Continuity Authority
+
+In Bridge Collapse mode:
+
+the nearest capable participant may assume minimal containment authority
+
+scope limited to:
+
+evacuation calls
+
+shutdown of failing infrastructure
+
+immediate harm interruption
+
+“stop the bleeding” actions only
+
+
+
+D4. Dissolution and Review
+
+authority dissolves immediately when a normal decider/council becomes available
+
+all actions are reviewed for system learning, not blame
+
+no prestige or permanent authority accrues
+
+
+This clause exists to prevent “freeze and die” failure.
+
+
+---
+
+Integration Notes (Where This Patches In)
+
+This add-on spec is intended to be referenced by:
+
+MP-AuthorityInvocationSpec
+
+Patch B (redundant slot), Patch C (no-step-up telemetry), Patch D (bridge collapse)
+
+
+MP-StabilizationSpec
+
+Patch A (dysregulation intervention pathway), Patch D (catastrophic continuity)
+
+
+MP-ResetSpec
+
+Patch C (capacity collapse triggers reallocation + reset increase)
+
+
+Bill of Functional Rights
+
+Patch A/C reinforce unconditional care + dignified pause under load
+
+
+
+
+---
+
+Summary Constraint
+
+> Slow harm is addressed by care-side intervention, not pre-emptive coercion.
+Authority is a redundant slot, not a ruler.
+Refusal is telemetry, not defect.
+Catastrophic continuity exists, but dissolves immediately.
+
+
+
+If any of these patches create permanent power, conditional care, or surveillance coercion, they are incorrectly implemented.
